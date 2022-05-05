@@ -2,7 +2,7 @@
 
 Hi, There! 👋
 
-I'm a React developer who builds engaging web apps while seeking to solve interesting problems. I’m looking to learn from others and maybe help somebody else out. I'd like to learn more about the things that I've come across on my journey and a new and exciting should help me do just that.
+I'm a React developer who builds engaging web apps while seeking to solve interesting problems. I’m looking to learn from others and maybe help somebody else out. I'd like to learn more about the things that I come across on my journey and working on a new and exciting project should help me do just that.
 
 [![Visits Badge](https://badges.pufler.dev/visits/micrjames/micrjames)](https://github.com/micrjames)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/michaelrjamesjr)
@@ -37,7 +37,6 @@ I'm a React developer who builds engaging web apps while seeking to solve intere
 
 ## 📈 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micrjames)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micrjames&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Skills
