@@ -18,7 +18,7 @@ I'm a React developer who builds engaging web apps while seeking to solve intere
 - [A Simple Web Development Automation Framework](https://michaelrjames.hashnode.dev/a-simple-web-development-automation-framework)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- GitHub Stats -- >
+
 ## 📈 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micrjames)](https://github.com/anuraghazra/github-readme-stats)
 
