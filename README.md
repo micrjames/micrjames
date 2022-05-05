@@ -1,4 +1,4 @@
-[![Michael's GitHub Banner](./socialsizes.png)]
+![Michael's GitHub Banner](./socialsizes.png)
 
 - 👋 Hi, There!
 - 👀 I’m interested in web development, coding, puzzles, mathematics, and any combinations of those things.
@@ -9,6 +9,9 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/michaelrjamesjr)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaelrjamesjr/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/micrjames)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <!---
