@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on anything, really. I'd like to learn more about the things that I've come across on my journey and a new and exciting should help me do just that.
 
 [![Visits Badge](https://badges.pufler.dev/visits/micrjames/micrjames)](https://github.com/micrjames)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/michaelrjamesjr)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaelrjamesjr/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/micrjames)
 
 
 <!---
