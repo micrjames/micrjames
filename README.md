@@ -11,11 +11,11 @@ I'm a React developer who builds engaging web apps while seeking to solve intere
 
 ## 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Fundamentals of CSS, part 2](https://michaelrjames.hashnode.dev/the-fundamentals-of-css-part-2)
 - [On Collections in JavaScript](https://michaelrjames.hashnode.dev/on-collections-in-javascript)
 - [The Fundamentals of CSS, Part 1](https://michaelrjames.hashnode.dev/the-fundamentals-of-css-part-1)
 - [Why I Don&#39;t Follow the No Code Movement](https://michaelrjames.hashnode.dev/why-i-dont-follow-the-no-code-movement)
 - [What is a Function?](https://michaelrjames.hashnode.dev/what-is-a-function)
-- [Implementing a Search Bar with a Control to Clear the Input Value using react-hook-form](https://michaelrjames.hashnode.dev/implementing-a-search-bar-with-a-control-to-clear-the-input-value-using-react-hook-form)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
