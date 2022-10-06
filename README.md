@@ -10,11 +10,11 @@ I'm a React developer who builds engaging web apps while seeking to solve intere
 
 ## 📔 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Should I keep going even though the task seems unsurmountable?](https://michaelrjames.hashnode.dev/should-i-keep-going-even-though-the-task-seems-unsurmountable)
 - [What is a &quot;Real&quot; Programming Language?](https://michaelrjames.hashnode.dev/what-is-a-real-programming-language)
 - [The Fundamentals of CSS, part 2](https://michaelrjames.hashnode.dev/the-fundamentals-of-css-part-2)
 - [On Collections in JavaScript](https://michaelrjames.hashnode.dev/on-collections-in-javascript)
 - [The Fundamentals of CSS, Part 1](https://michaelrjames.hashnode.dev/the-fundamentals-of-css-part-1)
-- [Why I Don&#39;t Follow the No Code Movement](https://michaelrjames.hashnode.dev/why-i-dont-follow-the-no-code-movement)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
