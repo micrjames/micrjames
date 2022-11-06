@@ -4,18 +4,7 @@ Hi, There! 👋
 
 I'm a React developer who builds engaging web apps while seeking to solve interesting problems. I’m looking to learn from others and maybe help somebody else out. I'd like to learn more about the things that I come across on my journey and working on a new and exciting project should help me do just that.
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/michaelrjamesjr)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaelrjamesjr/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/micrjames)
-
-## 📔 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Should I keep going even though the task seems unsurmountable?](https://michaelrjames.hashnode.dev/should-i-keep-going-even-though-the-task-seems-unsurmountable)
-- [What is a &quot;Real&quot; Programming Language?](https://michaelrjames.hashnode.dev/what-is-a-real-programming-language)
-- [The Fundamentals of CSS, part 2](https://michaelrjames.hashnode.dev/the-fundamentals-of-css-part-2)
-- [On Collections in JavaScript](https://michaelrjames.hashnode.dev/on-collections-in-javascript)
-- [The Fundamentals of CSS, Part 1](https://michaelrjames.hashnode.dev/the-fundamentals-of-css-part-1)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📌 Pinned Repositories
 <a href="https://github.com/micrjames/task-tracker-app">
