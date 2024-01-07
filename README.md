@@ -4,7 +4,7 @@ Hi, There! 👋
 
 I'm a React developer who builds engaging web apps while seeking to solve interesting problems. I’m looking to learn from others and maybe help somebody else out. I'd like to learn more about the things that I come across on my journey and working on a new and exciting project should help me do just that.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaelrjamesjr/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/michaelrjamesjr/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat-square&logo=twitter&logoColor=white&color=0D76A8)](https://twitter.com/michaelrjamesjr)
 
 ## 📌 Pinned Repositories
