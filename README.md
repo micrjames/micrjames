@@ -20,8 +20,8 @@ I'm a developer who builds engaging web apps while seeking to solve interesting 
 <a href="https://github.com/micrjames/Matrix">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=micrjames&repo=Matrix&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/micrjames/Collection">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=micrjames&repo=Collection&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/micrjames/StringBuilder">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=micrjames&repo=StringBuilder&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/micrjames/Form">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=micrjames&repo=Form&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
