@@ -1,4 +1,4 @@
-![Michael's GitHub Banner](./socialsizes.png)
+![Michael's GitHub Banner](./socials.png)
 
 Hi, There! 👋
 
